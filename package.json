@@ -1,0 +1,13 @@
+{
+  "name": "imyavuz-discord-ticket-bot",
+  "version": "1.0.0",
+  "description": "imyavuz Destek-Ticket Botu.",
+  "main": "destek.js",
+  "scripts": {
+    "start": "node destek.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
